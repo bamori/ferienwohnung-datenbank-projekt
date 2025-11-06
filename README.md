@@ -7,13 +7,13 @@ Dieses Projekt wurde im Rahmen der **Modulteilprüfung** des Moduls **Datenbank-
 - **ER-Modell**: Darstellung der Datenbankstruktur und der Beziehungen zwischen Entitäten.  
 - **DDL (Data Definition Language)**:  
   SQL-Skripte zum Erstellen und Löschen des Schemas sowie zur Definition von Triggern.  
-  - `create_schema.sql`  
-  - `drop_schema.sql`  
+  - `create_db_schema.sql`  
+  - `drop_db_schema.sql`  
   - `create_triggers.sql`  
 - **DML (Data Manipulation Language)**:  
   SQL-Skripte zum Einfügen, Löschen und Verwalten von Daten.  
-  - `insert_data.sql`  
-  - `delete_data.sql`  
+  - `insert_initial_data.sql`  
+  - `delete_initial_data.sql`  
 
 ## Zielsetzung
 
