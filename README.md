@@ -4,12 +4,12 @@ Dieses Projekt wurde im Rahmen der **Modulteilprüfung** des Moduls **Datenbank-
 
 ## Projektstruktur
 
-- **ER-Modell**: Darstellung der Datenbankstruktur und der Beziehungen zwischen Entitäten.  
+- **ER-Modell**:
+- Darstellung der Datenbankstruktur und der Beziehungen zwischen Entitäten.  
 - **DDL (Data Definition Language)**:  
   SQL-Skripte zum Erstellen und Löschen des Schemas sowie zur Definition von Triggern.  
   - `create_db_schema.sql`  
   - `drop_db_schema.sql`  
-  - `create_triggers.sql`  
 - **DML (Data Manipulation Language)**:  
   SQL-Skripte zum Einfügen, Löschen und Verwalten von Daten.  
   - `insert_initial_data.sql`  
@@ -23,4 +23,4 @@ Das Projekt demonstriert die Umsetzung einer relationalen Datenbank inklusive:
 - Datenmanipulation (DML)  
 - Trigger-Definitionen  
 
-Es dient als praxisnahes Beispiel für die Arbeit mit relationalen Datenbanksystemen und eignet sich ideal, um die Projektarbeit im Lebenslauf oder GitHub-Profil zu präsentieren.
+Es dient als praxisnahes Beispiel für die Arbeit mit relationalen Datenbanksystemen.
